@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="cho01">
+        <item>彰化師範大學</item>
+        <item>哈佛大學</item>
+        <item>麻省理工學院</item>
+        <item>牛津大學</item>
+    </string-array>
+    <string-array name="cho02">
+        <item>學務處</item>
+        <item>教務處</item>
+        <item>總務處</item>
+        <item>副校長室</item>
+    </string-array>
+    <string-array name="cho03">
+        <item>8:00~24:00</item>
+        <item>8:30~21:00</item>
+        <item>7:30~22:00</item>
+        <item>7:00~23:00</item>
+    </string-array>
+    <string-array name="cho04">
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="cho05">
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+    </string-array>
+    <string-array name="cho06">
+        <item>施明毅</item>
+        <item>楊忠和</item>
+        <item>丁德榮</item>
+        <item>以上皆是</item>
+    </string-array>
+    <string-array name="cho07">
+        <item>早上5點</item>
+        <item>早上6點</item>
+        <item>早上7點</item>
+        <item>早上8點</item>
+    </string-array>
+    <string-array name="cho08">
+        <item>ica</item>
+        <item>icb</item>
+        <item>icd</item>
+        <item>ice</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="map_npc" type="Map_npc"/>
+		<xs:complexType name="Map_npc">
+			<xs:sequence>
+				<xs:element name="npc" type="Npc" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+		<xs:complexType name="Npc">
+			<xs:sequence>
+				<xs:element name="mission" type="Mission" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="id" type=" xs:int" use="required"/>
+			<xs:attribute name="npc_name" xs:string use="required"/>
+			<xs:attribute name="x" type="xs:int" use="required"/>
+			<xs:attribute name="y" type="xs:int" use="required"/>
+		</xs:complexType>
+		<xs:complexType name="Mission">
+			<xs:attribute name="mission_id" type="xs:int" use="required"/>
+			<xs:attribute name="mission_sn" type="xs:int" use="required"/>
+		</xs:complexType>
+</xs:schema>

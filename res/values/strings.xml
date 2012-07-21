@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, login_test!</string>
+    <string name="app_name">彰化師範大學簡介</string>
+    <string name="L_activity_title">簡介小活動</string>
+    <string name="L_activity_Ques">是否進入簡介小活動？</string>
+    <string name="sudoku_des">請輸入1~9的數字到這九格內,並讓所有行列及斜行加起來都等於15</string>
+    <string name="enter_q">請問這間學校叫什麼名字?</string>
+    <string name="counseling_q">請問輔諮在這間大樓的幾樓?</string>
+    <string name="str_button1">開始任務</string> 
+    <string name="str_text1">距離</string>
+    <string name="str_message">error Location!</string>
+    <string name="slot_grade">目前的分數:</string>
+    <string name="player2_win">Player 2 (computer) wins!</string>
+    <string name="player1_win">Player 1 (you) wins!</string>
+    <string name="tie">This is a tie! No one wins!</string>
+    <string name="player2_turn">Player 2\'s turn (that\'s the computer)</string>
+    <string name="player1_turn">Player 1\'s turn -- that\'s you!</string>
+    <string name="quest">你找到我了？你想知道秘密?先幫我找本書來吧!!最近毛毛推薦我讀本448.845029 4600-1的書，但是她又沒有跟我說這本書名是甚麼，就你幫我找一下吧!作為回報我會告訴你想知道的。</string>
+	<string name="descr">什麼?!你找到了喔!原來是本Android的書喔!!好吧!我就跟你講一個彰師大的故事吧...就在創校的時候，大概是1745年〈乾隆10年〉，彰師大原本不是建在這邊的，這邊原本是啤酒廠預定地的，而是後來才改建的，傳說原本要建在這邊的啤酒廠的老闆，是因為想把放在這邊寶藏挖出，而想要建在這邊，後來就因為被發現而取消了。剛剛有去過圖書館了吧?那現在來去斜後方的體育館吧。</string>
+	<string name="manul">歡迎來到彰化師範大學簡介小程式，只要看到橘色的小點點，就表示你還沒有完成這個導覽小活動，可以跑過去那個點點附近然後點一下地圖上面，就會跑出要不要進入小活動的提示唷，進入完成之後，小點點就會變成綠色的。藍色小點點是代表你目前的位置，每完成活動之後再活動最後的文字敘述都會跑出小提示，告訴你下一站是哪裡，若沒有問題的話，可以按下面的按鈕往簡介小活動出發囉</string>
+	<string name="manul_button">進入簡介小活動～！</string>
+</resources>

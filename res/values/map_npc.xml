@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="npc001">校門口</string>
+		<string name="x001">24082819</string><!--X is latitude-->
+		<string name="y001">120558523</string><!--Y is longitude-->
+	<string name="npc002">白沙大樓</string>
+		<string name="x002">24081748</string>
+		<string name="y002">120558282</string>
+	<string name="npc003">圖書館</string>
+		<string name="x003">24080858</string>
+		<string name="y003">120558343</string>
+	<string name="npc004">操場</string>
+		<string name="x004">24081134</string>
+		<string name="y004">120559730</string>
+	<string name="npc005">天空</string>
+		<string name="x005">24080251</string>
+		<string name="y005">120560567</string>
+	<string name="npc006">教學大樓</string>
+		<string name="x006">24081747</string>
+		<string name="y006">120557084</string>
+	<string name="npc007">體育館正門</string>
+		<string name="x007">24081028</string>
+		<string name="y007">120559626</string>
+	<string name="npc008">學餐</string>
+		<string name="x008">24079615</string>
+		<string name="y008">120558651</string>
+	<string name="npc009">八卦山</string>
+		<string name="x009">24079716</string>
+		<string name="y009">120560106</string>
+	<string name="npc010">西側門</string>
+		<string name="x010">24080727</string>
+		<string name="y010">120555243</string>
+	<string name="npc011">孔子像</string>
+		<string name="x011">24081163</string>
+		<string name="y011">120558393</string>
+</resources>

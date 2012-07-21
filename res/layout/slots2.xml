@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    
+    >
+<TableRow >
+<TextView  
+	android:id="@+id/mText2" 
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/slot_grade"
+    />
+<TextView  
+	android:id="@+id/result" 
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text=""
+    />
+</TableRow>
+<TextView  
+	android:id="@+id/text" 
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text=""
+    />
+<TableRow android:gravity="center">
+<ImageView 
+    android:id="@+id/mImage01"
+    android:layout_gravity="center"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    
+    />
+<ImageView 
+    android:id="@+id/mImage02"
+    android:layout_gravity="center"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+   
+    />
+<ImageView 
+    android:id="@+id/mImage03"
+    android:layout_gravity="center"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    
+    />
+</TableRow>
+
+
+<TextView  
+	android:id="@+id/mText1" 
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text=""
+    android:gravity="center"
+    />
+<TableRow android:gravity="center">
+<Button 
+	android:text="Start" 
+	android:id="@+id/mButton" 
+	android:gravity="center"
+	android:layout_width="wrap_content" 
+	android:layout_height="wrap_content"
+	android:textSize="24sp"
+	android:padding="8dip"
+/>
+<Button 
+	android:text="STOP" 
+	android:id="@+id/Button2" 
+	android:gravity="center"
+	android:layout_width="wrap_content" 
+	android:layout_height="wrap_content"
+	android:textSize="24sp"
+	android:padding="8dip"
+/>
+
+</TableRow>
+</TableLayout>

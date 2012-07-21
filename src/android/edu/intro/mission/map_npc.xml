@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map_npc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="map_npc.xsd">
+	<npc id="1" npc_name="001" x="0" y="0">
+		<mission mission_id="100000" mission_sn="1"/>
+	</npc>
+	<npc id="2" npc_name="002" x="0" y="0">
+		<mission mission_id="100000" mission_sn="2"/>
+	</npc>
+	<npc id="3" npc_name="003" x="0" y="0">
+		<mission mission_id="100000" mission_sn="3"/>
+	</npc>
+	<npc id="4" npc_name="004" x="0" y="0">
+		<mission mission_id="100000" mission_sn="4"/>
+	</npc>
+	<npc id="5" npc_name="005" x="0" y="0">
+		<mission mission_id="100000" mission_sn="5"/>
+	</npc>
+	<npc id="6" npc_name="006" x="0" y="0">
+		<mission mission_id="100000" mission_sn="6"/>
+	</npc>
+	<npc id="7" npc_name="007" x="0" y="0">
+		<mission mission_id="100000" mission_sn="7"/>
+	</npc>
+	<npc id="8" npc_name="008" x="0" y="0">
+		<mission mission_id="100000" mission_sn="8"/>
+	</npc>
+	<npc id="9" npc_name="009" x="0" y="0">
+		<mission mission_id="100000" mission_sn="9"/>
+	</npc>
+	<npc id="10" npc_name="010" x="0" y="0">
+		<mission mission_id="100000" mission_sn="10"/>
+	</npc>
+</map_npc>
