@@ -106,7 +106,7 @@ public class Login extends Activity
     
     private void setListener()//幫按鈕加listener
     {
-    	reg.setOnClickListener(btnlis);
+    	reg.setOnClickListener(btnlis);//
     	login.setOnClickListener(btnlis);
     }
     
